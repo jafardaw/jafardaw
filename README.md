@@ -1,6 +1,6 @@
-  🙋 Hi, I'm JafarDaw
+🙋 Hi, I'm JafarDaw,Mobile app Developer 
   
-🤓 I have a strong understanding of C++, Java, and Dart, and am adept at applying these skills in various projects.
+🤓  I’m currently learning FLUTTER Development
 
 
 📱 Building sleek, cross-platform mobile applications using Flutter and still learning the framework.
