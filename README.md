@@ -39,8 +39,10 @@ I enjoy transforming ideas into production-ready applications and leveraging AI-
 * Laravel
 * PHP
 * REST APIs
+* SQL
+* Mongo DB
 * MySQL
-* PostgreSQL
+
 
  UI/UX & Design
 
@@ -48,7 +50,6 @@ I enjoy transforming ideas into production-ready applications and leveraging AI-
 * Figma AI
 * Google Stitch
 * Responsive Design
-* Wireframing
 * Prototyping
 
 Tools & Technologies
@@ -60,6 +61,9 @@ Tools & Technologies
 * Postman
 * VS Code
 * Android Studio
+* Codex
+* GitHub Copilot
+* Cursor
 
 ---
 
